@@ -1,0 +1,12 @@
+*,::after,::before{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* styling all the icons */
+.burger-icon{
+  height: 30px;
+  width: 30px;
+  color: darkblue;
+}
